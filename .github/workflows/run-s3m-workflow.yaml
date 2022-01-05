@@ -21,7 +21,7 @@ jobs:
       - name: Install system dependencies
         run: |
           apt-get update && apt-get install -y --no-install-recommends \
-          git-crypt libxt6 libglpk-dev build-essential
+          git-crypt libxt6 libglpk-dev
           
 #      - name: Decrypt repository using symmetric key
 #        run: |
