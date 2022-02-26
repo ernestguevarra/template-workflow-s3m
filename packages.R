@@ -47,9 +47,9 @@ library(okapi)
 #
 ################################################################################
 
-#library(zscorer)
-#library(nutricheckr)
-#library(anthrocheckr)
+library(zscorer)
+library(nutricheckr)
+library(anthrocheckr)
 
 
 ################################################################################
@@ -60,6 +60,6 @@ library(okapi)
 #
 ################################################################################
 
-#library(ppitables)
+library(ppitables)
 
 
