@@ -23,6 +23,7 @@ library(kableExtra)
 ################################################################################
 
 library(sf)
+library(raster)
 library(spatialsampler)
 library(mapboxapi)
 
